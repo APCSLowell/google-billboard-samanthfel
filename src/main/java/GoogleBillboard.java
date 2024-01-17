@@ -9,6 +9,7 @@ public class GoogleBillboard {
 		if (isPrime(dNum)){
         		System.out.println(dNum);
 			break;
+		}
 	}
 	
 
